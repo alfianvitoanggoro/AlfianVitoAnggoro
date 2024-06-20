@@ -15,9 +15,9 @@ I am a **Web Developer** from Bogor, Indonesia and **Fresh Graduate** from Singa
 
 ### Reach me on
 
-- <a href="https://alfianvitoanggoro.site">My Portfolio</a>
-- <a href="https://mail.google.com/mail/u/0/?view=cm&tf=1&fs=1&to=alfianvitoanggoro@gmail.com">Gmail</a>
-- <a href="https://linkedin.com/in/alfianvitoanggoro/">LinkedIn</a>
-- <a href="https://instagram.com/atokemen_">Instagram</a>
-- <a href="https://twitter.com/Atokemen_">X</a>
-- <a href="https://youtube.com/@alfianvito">Youtube</a>
+- <a href="https://alfianvitoanggoro.site" target="_blank">My Portfolio</a>
+- <a href="https://mail.google.com/mail/u/0/?view=cm&tf=1&fs=1&to=alfianvitoanggoro@gmail.com" target="_blank">Gmail</a>
+- <a href="https://linkedin.com/in/alfianvitoanggoro/" target="_blank">LinkedIn</a>
+- <a href="https://instagram.com/atokemen_" target="_blank">Instagram</a>
+- <a href="https://twitter.com/Atokemen_" target="_blank">X</a>
+- <a href="https://youtube.com/@alfianvito" target="_blank">Youtube</a>
