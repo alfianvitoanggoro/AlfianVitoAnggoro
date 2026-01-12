@@ -2,7 +2,7 @@
 
 Hello, I'm **Alfian Vito Anggoro**.
 
-I am a **Web Developer** from Bogor, Indonesia and **Fresh Graduate** from Singaperbangsa University Karawang. I start for learn programming at 2020. I have some experience as a web developer in various sectors such as industrial, individual project, team project and more. I am proficient in Web Developer with **React**, **Next.JS**, Codeigniter and Laravel and i am interest for being a Android Developer with Flutter and Kotlin, and I am excited to bring my skills and leadership to meaningful projects.
+I am a **Software Developer** from Bogor, Indonesia and **Fresh Graduate** from Singaperbangsa University Karawang. I start for learn programming at 2020. I have some experience as a web developer in various sectors such as industrial, individual project, team project and more. I am proficient in Web Developer with **React**, **Next.JS**, Codeigniter and Laravel and i am interest for being a Android Developer with Flutter and Kotlin, and I am excited to bring my skills and leadership to meaningful projects.
 
 ### Github Statistic
 
